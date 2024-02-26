@@ -15,7 +15,7 @@ This Android app allows users to manage their shopping items. It demonstrates th
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/omertzroya/Android1-HITCollege-Class-Exercise2.git
+   git clone https://github.com/Roychen651/ShoppingList-Android-App.git
    ```
 
 2. Open the project in Android Studio.
